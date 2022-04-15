@@ -1,0 +1,29 @@
+{
+  "heroes": [
+    {
+      "id": 3,
+      "name": "Третий герой",
+      "description": "ВОдяной",
+      "element": "water"
+    },
+    {
+      "id": "47224b27-e740-44c0-82a8-f8e97649ef89",
+      "name": "Saskoaaa",
+      "description": "h",
+      "element": "earth"
+    },
+    {
+      "id": "53821621-1d58-4e92-9bfa-895a038c8183",
+      "name": "fe",
+      "description": "ef",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}

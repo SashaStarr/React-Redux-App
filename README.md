@@ -1,2 +1,1 @@
-# React-Redux-App
-React-Redux App
+This is test project with hero admin panel!
